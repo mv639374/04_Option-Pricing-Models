@@ -1,5 +1,5 @@
-## 3 Frameworks:
+## 3 Frameworks
 
-* 1. Binomial Model
-* 2. Black-Scholes Model
-* 3. Monte-Carlo Simulations
+* Binomial Model
+* Black-Scholes Model
+* Monte-Carlo Simulations
